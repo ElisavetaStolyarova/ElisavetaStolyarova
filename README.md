@@ -18,19 +18,19 @@
 
 ## 🛠 Технические навыки
 
-**Языки и Backend:**
+**Языки программирования:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,mysql,postgre" />
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,java" />
 </p>
 
-**Frontend и Mobile:**
+**Front-end и дизайн:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,kotlin,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma" />
 </p>
 
-**Инструменты:**
+**Инструменты и среда:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,git,github" />
 </p>
 ---
 
