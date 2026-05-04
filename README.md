@@ -32,7 +32,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,git,github" />
 </p>
----
 
 ##  Мои проекты
 *   **Личное портфолио** — Сайт-визитка, объединяющий мои лучшие работы и учебные проекты. [MyProject_Site]
