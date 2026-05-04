@@ -15,22 +15,22 @@
 - 🚀 **Текущие цели:** Развиваю навыки в C# и проектировании архитектуры приложений.
 - 🎨 **Интересы:** Слежу за современными трендами в дизайне и UX.
 
-## 🛠 Технологический стек
+## 🛠 Технические навыки
 
-### 💻 Языки и Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+**Языки и Backend:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,mysql,postgre" />
+</p>
 
-### 🌐 Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Frontend и Mobile:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,kotlin,figma" />
+</p>
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
+**Инструменты:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+</p>
 ---
 
 ## 📈 Мои проекты
@@ -46,6 +46,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
