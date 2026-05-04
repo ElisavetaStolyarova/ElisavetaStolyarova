@@ -3,9 +3,6 @@
 # Столярова Елизавета 
 ### Будущий разработчик ПО | Mobile & Web Developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
-
 ---
 
 "Стремлюсь к созданию качественных продуктов, уделяя внимание как чистоте кода, так и удобству интерфейса."
