@@ -20,7 +20,7 @@
 
 **Языки программирования:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,javascript" />
 </p>
 
 **Front-end и дизайн:**
