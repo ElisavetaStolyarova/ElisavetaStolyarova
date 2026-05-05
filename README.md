@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=cs,kotlin,javascript" />
 </p>
 
-**Front-end и дизайн:**
+**Frontend и дизайн:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,figma" />
 </p>
